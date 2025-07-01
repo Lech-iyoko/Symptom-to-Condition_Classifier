@@ -4,7 +4,7 @@ An interactive web application that uses a machine learning pipeline to classify
 
 **[Live Demo]** - *(Link to the deployed Streamlit Community Cloud app will go here when ready)*
 
-![App Screenshot](https//i.imgur.com/your_screenshot_url.png) *(Suggestion: Take a screenshot of your app and upload it)*
+![App Screenshot](![Screenshot (97)](https://github.com/user-attachments/assets/183952c1-d23d-4301-9c6e-c62140ec880e)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
