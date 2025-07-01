@@ -63,3 +63,9 @@ Two advanced modeling strategies were tested on the new dataset. The final resul
 - **Simplicity Can Outperform Complexity:** On this dataset, a well-regularized classical model (LightGBM) using high-quality embeddings generalized better than a more complex, end-to-end fine-tuned model.
 - **The Importance of Granular Error Analysis:** Moving beyond aggregate metrics to analyze the confusion matrix was crucial in understanding *why* one model was better than another.
 
+**Demo
+
+https://github.com/user-attachments/assets/d9813f24-b047-4423-9ae4-98e731680344
+
+
+!
