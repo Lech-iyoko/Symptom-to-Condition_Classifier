@@ -2,7 +2,7 @@
 ---
 An interactive web application that uses a machine learning pipeline to classify a potential medical condition based on user-described symptoms. This project demonstrates a complete MLOps workflow, from data analysis and model training to deployment and interactive UI creation.
 
-[Screenshot (97)](https://github.com/user-attachments/assets/183952c1-d23d-4301-9c6e-c62140ec880e)
+![Screenshot (97)](https://github.com/user-attachments/assets/183952c1-d23d-4301-9c6e-c62140ec880e)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
